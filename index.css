@@ -563,8 +563,6 @@ body:not(.user-is-tabbing) a:focus {
 .about__photo{
     border-radius: 50%;
     width: 70%;
-    position: relative;
-    left: 20%
 }
 
 @media(min-width: 901px) {
